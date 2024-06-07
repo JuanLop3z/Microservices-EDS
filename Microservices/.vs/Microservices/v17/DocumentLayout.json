@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\$ProyectosGit Juan\\Microservices-EDS\\Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FB57F7-F80F-4E8D-9230-2095A4F7B3BC}|src\\Services\\Productos\\Productos.Api\\Productos.Api.csproj|c:\\$proyectosgit juan\\microservices-eds\\microservices\\src\\services\\productos\\productos.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FB57F7-F80F-4E8D-9230-2095A4F7B3BC}|src\\Services\\Productos\\Productos.Api\\Productos.Api.csproj|solutionrelative:src\\services\\productos\\productos.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\$ProyectosGit Juan\\Microservices-EDS\\Microservices\\src\\Services\\Productos\\Productos.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Productos\\Productos.Api\\WeatherForecast.cs",
+              "ToolTip": "C:\\$ProyectosGit Juan\\Microservices-EDS\\Microservices\\src\\Services\\Productos\\Productos.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "src\\Services\\Productos\\Productos.Api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:00:18.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
