@@ -1,0 +1,12 @@
+C:\$ProyectosGit Juan\Microservices-EDS\Microservices\src\Services\Productos\Productos.Domain\bin\Debug\net8.0\Productos.Domain.deps.json
+C:\$ProyectosGit Juan\Microservices-EDS\Microservices\src\Services\Productos\Productos.Domain\bin\Debug\net8.0\Productos.Domain.dll
+C:\$ProyectosGit Juan\Microservices-EDS\Microservices\src\Services\Productos\Productos.Domain\bin\Debug\net8.0\Productos.Domain.pdb
+C:\$ProyectosGit Juan\Microservices-EDS\Microservices\src\Services\Productos\Productos.Domain\obj\Debug\net8.0\Productos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\$ProyectosGit Juan\Microservices-EDS\Microservices\src\Services\Productos\Productos.Domain\obj\Debug\net8.0\Productos.Domain.AssemblyInfoInputs.cache
+C:\$ProyectosGit Juan\Microservices-EDS\Microservices\src\Services\Productos\Productos.Domain\obj\Debug\net8.0\Productos.Domain.AssemblyInfo.cs
+C:\$ProyectosGit Juan\Microservices-EDS\Microservices\src\Services\Productos\Productos.Domain\obj\Debug\net8.0\Productos.Domain.csproj.CoreCompileInputs.cache
+C:\$ProyectosGit Juan\Microservices-EDS\Microservices\src\Services\Productos\Productos.Domain\obj\Debug\net8.0\Productos.Domain.sourcelink.json
+C:\$ProyectosGit Juan\Microservices-EDS\Microservices\src\Services\Productos\Productos.Domain\obj\Debug\net8.0\Productos.Domain.dll
+C:\$ProyectosGit Juan\Microservices-EDS\Microservices\src\Services\Productos\Productos.Domain\obj\Debug\net8.0\refint\Productos.Domain.dll
+C:\$ProyectosGit Juan\Microservices-EDS\Microservices\src\Services\Productos\Productos.Domain\obj\Debug\net8.0\Productos.Domain.pdb
+C:\$ProyectosGit Juan\Microservices-EDS\Microservices\src\Services\Productos\Productos.Domain\obj\Debug\net8.0\ref\Productos.Domain.dll
